@@ -1,0 +1,4 @@
+Contact: mailto:carljohn@carljohnpyne.ca
+Expires: 2027-09-29T23:59:00.000Z
+Preferred-Languages: en, fr
+Canonical: https://carljohnpyne.ca/.well-known/security.txt
